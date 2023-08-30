@@ -12,5 +12,13 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.3",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@pinia-plugin-persistedstate/nuxt": "^1.1.1",
+    "@pinia/nuxt": "^0.4.11",
+    "axios": "^1.5.0",
+    "pinia": "^2.1.6",
+    "pinia-plugin-persistedstate": "^3.2.0"
   }
 }
